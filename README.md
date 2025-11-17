@@ -280,7 +280,6 @@ shipping-delay-prediction-ml/
 │   ├── delay_rate_by_carrier.png
 │   ├── delay_rate_by_destination.png
 │   ├── delay_rate_by_warehouse.png
-│   ├── numeric_distributions.png
 │   ├── rf_confusion_matrix.png
 │   ├── xgb_confusion_matrix.png
 │   └── feature_importances_xgb.png
