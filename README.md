@@ -92,7 +92,7 @@ Business-focused engineered features:
 - `Weight_kg_log` = `log1p(Weight_kg)`  
 - `Cost_log` = `log1p(Cost)`  
 
-These features reflect **how operations actually work**: timing, geography, carriers, and route behavior.
+
 
 ---
 
@@ -118,7 +118,7 @@ Delay rate by origin warehouse, destination, and carrier was calculated using ba
 - Some **destinations** (e.g., Boston, Detroit) have noticeably higher delay rates than others.  
 - Among **carriers**, Amazon Logistics and LaserShip appear riskier than UPS or USPS.
 
-These patterns are consistent with the feature importances found later.
+
 
 ---
 
